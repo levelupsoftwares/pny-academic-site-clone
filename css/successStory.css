@@ -1,0 +1,33 @@
+.SuccessStory{
+    display: flex;
+    flex-direction: column;
+    background-color: #F3F4F6;
+    height: 85vh;
+    width: 100%;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+.SuccessStory img{
+    height: 55vh;
+}
+.Acknow-para{
+    display: flex;
+    flex-direction: column;
+
+}
+.SuccessStory h1{
+    font-size:2.5rem;
+    font-weight: bolder;
+    margin-top: 1.2rem;
+
+}
+.SuccessStory p{
+    font-size: x-large;
+}
+.Acknow-para{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 500;
+}

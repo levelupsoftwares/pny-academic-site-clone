@@ -1,0 +1,72 @@
+nav{
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    position: sticky;
+    top: 0;
+    margin-bottom: 1px;;
+}
+.navbuttonL{
+    height: 2rem;
+    padding: 4px;
+    background-color: yellow;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+.navPages{
+    display: flex;
+   gap: 1rem;
+    list-style-type: none;
+    color: white;
+    cursor: pointer;
+}
+.navbuttonR{
+    height: 2.5rem;
+    width: 6rem;
+    background-color: rgb(228, 18, 18);
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px;
+    font-size:medium;
+    margin-right: 1rem;
+}
+.nav2{
+    height: 2rem;
+    background-color:#374151;
+    width: 100%;
+}
+.nav2 hr{
+   
+    border:0.5px solid cyan;
+    
+}
+.nav2li{
+    display: flex;
+    gap: 1rem;
+    font-size: large;
+}
+.icons{
+    height: 1rem;
+    width: 1rem;
+}
+.nav2Ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 2rem;
+    align-items: center;
+    color: white;
+    padding-top: 0.2rem;
+}
+.nav2Button{
+    width:9rem;
+    height: 1.5rem;
+    font-weight: bold;
+    background-color: #31C48D;
+}
+.navPages li:hover{
+    text-decoration: underline;
+}

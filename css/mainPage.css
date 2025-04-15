@@ -1,0 +1,71 @@
+main{
+    background-color: #FFFFFF;
+    margin-bottom: 1rem;
+}
+.mainPageNav{
+    background-color: #FFFFFF;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.compLogo{
+    height: 3.5rem;
+    width: 4em;
+    cursor: pointer;
+
+}
+.mainNavLeft{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-left: 1rem;
+}
+.mainNavLbutton{
+    background-color: #76A9FA;
+    height: 2.8rem;
+    width: 12rem;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
+.inputmainNav{
+    height: 2.8rem;
+    border-radius: 8px;
+    width: 30rem;
+    font-size: large;
+    font-weight: 500;
+    padding: 1rem;
+}
+.mainNavUl{
+    list-style-type: none;
+    display: flex;
+    gap: 0.8rem;
+    margin-right: 2rem;
+    font-weight: 550;
+    font-size: large;
+    cursor: pointer;
+}
+.banner{
+    width: 100%;
+    height: 45vh;
+    margin-bottom: 1.5rem;
+}
+.mainHighlight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
+    row-gap: 1rem;
+}
+.mainHighlight h5{
+    font-size: large;
+}
+.redColor{
+    color: red;
+}

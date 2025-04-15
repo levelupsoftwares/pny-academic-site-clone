@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Inter, Inter Fallback;
+}
+head{
+    display: flex;
+    flex-direction: column;
+}
+.whatsappSticky{
+    position: sticky;
+    top: 100%;
+    left: 100%;
+}
