@@ -26,7 +26,7 @@ This project replicates the design, layout, and interactive elements of the orig
 ## 🌐 Live Preview  
 
 Experience the live version of this project here:  
-👉 **[View Landing Page](https://levelupsoftwares.github.io/showcase/)**  
+👉 **[View Landing Page](https://levelupsoftwares.github.io/pny-academic-site-clone/)**  
 
 ---
 
